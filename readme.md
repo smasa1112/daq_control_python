@@ -1,8 +1,8 @@
 # 概要
 NI社のPython用DAQライブラリ[nidaqmx-python](https://github.com/ni/nidaqmx-python/tree/master/nidaqmx)及び、制御機器用pythonライブラリ[pyvisa](https://pyvisa.readthedocs.io/en/latest/)を使用した刺激・計測用プログラム  
-** **注意** *
+<注意>  
 ファイル分割をまったくしていないためコードが読みづらい・クラスにしてないため関数のつながりがわからない等ある可能性があります。  
-ご了承ください。
+ご了承ください。  
 
 ## 必要環境
 ### ライブラリ
