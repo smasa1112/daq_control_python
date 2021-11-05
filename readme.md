@@ -13,8 +13,9 @@ NI社のPython用DAQライブラリ[nidaqmx-python](https://github.com/ni/nidaqm
 ### module
 - pyvisa
 - nidaqmx-python
-> 詳しくは上の概要欄を参考にインストールしてください
-***  
+> 詳しくは上の概要欄を参考にインストールしてください  
+
+
 もしかしたら必要かも...
 - Ivi.Visa
 ***
